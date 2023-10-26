@@ -1,0 +1,8 @@
+name: data-analysis
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - ipykernel
